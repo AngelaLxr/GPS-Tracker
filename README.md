@@ -8,3 +8,6 @@ With the voice actication addition, you can now simply say "get my location" and
 
 # Added battery monitoring
 Lets you know how much the battery is right now and when its below 20%. The code will make it so if you're battery is 20% or lower, it will trigger a pop up.
+
+# Designed an app UI
+Shows the basic functions of the app and how we wanted it to look.
